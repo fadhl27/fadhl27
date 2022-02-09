@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Fadhl**.\
+Perkenalkan nama saya **Fadhl**.
 
-Saya seorang mahasiswa jurusan sistem informasi di Universitas Indonesia.\
+Saya seorang mahasiswa jurusan sistem informasi di Universitas Indonesia.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fadhl-6b9611184/)ku ya.
 <!--
